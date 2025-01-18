@@ -2,8 +2,8 @@
 
 **This repo only consists of built Unity WebGL.**.
 
-![Demo](public/fish-1.gif)
-![Demo](public/fish-2.gif)
+![Demo](public/fish-game-demo/fish-1.gif)
+![Demo](public/fish-game-demo/fish-2.gif)
 
 Welcome to the **2D Predator-Prey Fish Simulator Game**! This project is a visually engaging and interactive simulation that models the behavior of predator and prey fish in a 2D environment. The game showcases simple Boid Algorithm and ecosystem dynamics.
 
